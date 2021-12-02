@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add"
+        android:title="Addition"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/sub"
+        android:title="subtraction"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/multiply"
+        android:title="multiplication"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/div"
+        android:title="division"
+        app:showAsAction="never"
+        />
+
+</menu>
